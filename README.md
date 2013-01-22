@@ -7,6 +7,5 @@ enables aliases and various shortcuts.
 This software is licensed as BSD.
 
 ###Author
-[Aljaž Srebrnič](http://about.me/g5pw)
-
+[Aljaž Srebrnič](http://about.me/g5pw)  
 Find me on [twitter](http://twitter.com/g5pw)!
