@@ -1,6 +1,6 @@
 #PortWrapper
 
-PortWrapper is a python wrapper around the port command from MacPorts. It
+PortWrapper is a python3 wrapper around the port command from MacPorts. It
 enables aliases and various shortcuts.
 
 ##License
